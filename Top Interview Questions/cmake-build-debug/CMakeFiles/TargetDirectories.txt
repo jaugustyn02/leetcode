@@ -1,3 +1,0 @@
-C:/Users/czest/OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie/Github/leetcode/Top Interview Questions/cmake-build-debug/CMakeFiles/Top_Interview_Questions.dir
-C:/Users/czest/OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie/Github/leetcode/Top Interview Questions/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/czest/OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie/Github/leetcode/Top Interview Questions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
