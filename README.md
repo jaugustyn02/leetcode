@@ -1,7 +1,7 @@
 # Solutions to Leetcode programming problems
 
 ## Top Interview Questions
-- Easy: 6
+- Easy: 7
 - Medium: 4
 - Hard: 0
 ## Others
