@@ -1,4 +1,4 @@
-# Solutions to Leetcode programming problems
+# Solutions to LeetCode programming problems
 
 ## Top Interview Questions
 - Easy: 7
