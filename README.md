@@ -2,7 +2,7 @@
 
 ## Top Interview Questions
 - Easy: 8
-- Medium: 6
+- Medium: 7
 - Hard: 0
 ## Contest:
 - Easy: 2
