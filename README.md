@@ -4,7 +4,7 @@
 - Easy: 8
 - Medium: 7
 - Hard: 0
-## Contest
+## Contests
 - Easy: 2
 - Medium: 1
 - Hard: 0
